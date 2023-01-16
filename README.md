@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **UI & UX, Fronted Devs, HTML 5, CSS3,JAVASCRIPT, ES6, REACTS,  MATERIAL UI, UIKIT, CHAKRA UI**
+- 💬 Ask me about **UI & UX, Fronted Devs, HTML 5, CSS3,JAVASCRIPT, ES6, REACTS, BOOTSTRAP5, TAILWIND CSS, ELECETRON JS, MATERIAL UI, UIKIT, CHAKRA UI**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://www.linkedin.com/in/mithlesharya/" target="_blank"> Know more about me</a>**
 
