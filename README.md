@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mithlesharya/" target="_blank"> Mithlesh Arya 👋</a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mithlesharya/" target="_blank"> Mithlesh Arya ✌</a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A43FF&width=435&lines=UI+%26+UX+Designer%2C+Fronted+Developer+%3A)" alt="Typing intro" /></h3>
 
 - 🌱 Learning Never Stops 🚀
