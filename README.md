@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://www.linkedin.com/in/mithlesharya/" target="_blank"> Know more about me</a>**
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
